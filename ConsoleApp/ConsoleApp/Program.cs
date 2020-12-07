@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("You can also use it locally");
+            Console.WriteLine("You can also use GIT it locally");
         }
     }
 }
